@@ -85,10 +85,10 @@ The datasets were first imported into **MySQL**, then connected to **Power BI** 
 ```text
 Credit-Card-Financial-Dashboard/
 │
-├── Credit_Card_Dashboard.pbix
-├── credit_card_project_customer.csv
-├── credit_card_project_credit_card.csv
-├── Credit_Card_Dashboard.pdf
+├── Credit_Card_Project.pbix
+├── customer.csv
+├── credit_card.csv
+├── Credit_Card_Project.pdf
 ├── Images/
 │   ├── Customer_report.png
 │   └── Credit_report.png
